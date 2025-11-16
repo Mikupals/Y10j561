@@ -1,0 +1,11 @@
+{
+  "instances": [
+    {
+      "app": "Invidious",
+      "region": "South America",
+      "country": "Chile",
+      "flag": "🇨🇱",
+      "url": "https://inv.nadeko.net"
+    }
+  ]
+}
